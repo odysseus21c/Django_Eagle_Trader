@@ -1,1 +1,1 @@
-web: gunicorn {FirstProject01}.wsgi --log-file -
+web: gunicorn {Django_Eagle_Trader}.wsgi --log-file -
